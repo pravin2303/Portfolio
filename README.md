@@ -41,7 +41,7 @@ Version Control: Git & GitHub
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/portfolio.git
+git clone [https://github.com/your-username/portfolio.git](https://github.com/pravin2303/Portfolio)
 cd portfolio
 npm install
 
