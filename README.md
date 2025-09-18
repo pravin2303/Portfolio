@@ -42,6 +42,7 @@ Version Control: Git & GitHub
 Clone the repository and install dependencies:
 
 git clone [https://github.com/your-username/portfolio.git](https://github.com/pravin2303/Portfolio)
+
 cd portfolio
 npm install
 
@@ -63,9 +64,9 @@ npm run build
 
 Email: mpravin519@gmail.com
 
-LinkedIn: [Your LinkedIn
+LinkedIn: [LinkedIn
 ](https://www.linkedin.com/in/pravin-m-67a3a932a/)
-GitHub: [Your GitHub](https://github.com/pravin2303)
+GitHub: [GitHub](https://github.com/pravin2303)
 
 ⭐ Acknowledgments
 
