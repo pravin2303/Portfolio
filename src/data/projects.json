@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce solution with React frontend, Node.js backend, and integrated payment processing. Features include user authentication, product catalog, shopping cart, and admin dashboard.",
+    "image": "/public/project/Project-1.jpg",
+    "technologies": ["React", "Node.js", "MongoDB", "Spring-boot", "JWT"],
+    "category": "Full Stack",
+    "githubUrl": "https://github.com/pravin2303/Ecommerce-SpringBoot-Reactjs",
+
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "To-Do App",
+    "description": " the Minimalistic To-Do App – a task management application built using React Native with Expo.",
+    "image": "/public/project/Project-2.jpg",
+    "technologies": ["React", "React-Native", "Node.js", "Javascript"],
+    "category": "Full Stack",
+    "githubUrl": "https://github.com/pravin2303/todo-react",
+    "liveUrl": "https://taskmanager-demo.com",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Personal Expense Tracker",
+    "description": "A modern and intuitive web application to track your daily expenses, analyze spending habits, and manage personal finances with ease.",
+    "image": "/public/project/Project-3.jpg",
+    "technologies": ["React", "Chart.js","Tailwind CSS"],
+    "category": "Frontend",
+    "githubUrl": "https://github.com/pravin2303/personal-Expense-Tracker",
+    "liveUrl": "https://personal-expense-tracker-umber.vercel.app/login",
+    "featured": true
+  }
+]
