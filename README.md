@@ -23,7 +23,7 @@ Frontend: React.js / Next.js, TypeScript, Tailwind CSS
 Icons & UI: Tabler Icons / shadcn UI
 
 Deployment: Vercel / Netlify
-
+ 
 Version Control: Git & GitHub
 
 📂 Folder Structure
